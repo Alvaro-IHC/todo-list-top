@@ -1,0 +1,14 @@
+.test {
+  font-size: 2rem;
+  background-color: green;
+  /* width: ; */
+}
+
+.project-button {
+  border: none;
+  display: flex;
+}
+
+i {
+  padding: 2rem;
+}
